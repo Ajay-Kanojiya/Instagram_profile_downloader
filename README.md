@@ -4,7 +4,7 @@
 * Download **requirements.txt** file to install required libraries.
 
 #### Step:2
-* Now run [download_insta _profile_pic.py]() file.
+* Now run [download_insta _profile_pic.py](https://github.com/Ajay-Kanojiya/Instagram_profile_downloader/blob/master/download_insta%20_profile_pic.py) file.
 
 #### Step:3
 * Enter your instagram **username** in the editor.
