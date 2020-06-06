@@ -1,6 +1,6 @@
 # Download your instagram profile picture using python.
 
-####Step:1
+#### Step:1
 * Download **requirements.txt** file to install required libraries.
 
 #### Step:2
